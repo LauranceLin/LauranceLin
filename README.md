@@ -2,8 +2,6 @@
 
 I look for evidence in messy, real-world data to answer questions in business and finance.
 
-Information Management at National Taiwan University; from September 2026, visiting student in Finance at LSE. My toolkit spans two worlds — machine learning to build measures, econometrics to test what causes what.
+I am an Information Management student at National Taiwan University, heading to the London School of Economics in September 2026 for a year as a visiting student in Finance. My research so far has centered on empirical corporate finance, and I hope to explore asset pricing while in London. I also have a strong interest in economic theory, particularly game theory and information economics.
 
-I write at [laurancelin.com](https://laurancelin.com) — research notes in English, notes on studying abroad in Traditional Chinese. Companion code for those notes will appear here as they're published.
-
-Reach me at contact@laurancelin.com.
+I write at [laurancelin.com](https://laurancelin.com). Reach me at contact@laurancelin.com.
